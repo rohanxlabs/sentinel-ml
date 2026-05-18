@@ -1,0 +1,54 @@
+rules:
+  # Latency rules
+  - name: high_latency
+    metric: latency_p95
+    condition: ">"
+    threshold: 2.0
+    severity: critical
+    action: alert
+    cooldown_seconds: 300
+
+  # Error rate rules
+  - name: high_error_rate
+    metric: error_rate
+    condition: ">"
+    threshold: 0.05
+    severity: critical
+    action: rollback
+    cooldown_seconds: 600
+
+  # Fraud rate spike
+  - name: fraud_rate_spike
+    metric: fraud_rate
+    condition: ">"
+    threshold: 0.10
+    severity: warning
+    action: retrain
+    cooldown_seconds: 3600
+
+  # Model degradation
+  - name: model_degradation
+    metric: f1_score_drop
+    condition: ">"
+    threshold: 0.05
+    severity: critical
+    action: rollback
+    cooldown_seconds: 600
+
+  # Data drift
+  - name: data_drift
+    metric: drift_share
+    condition: ">"
+    threshold: 0.30
+    severity: warning
+    action: retrain
+    cooldown_seconds: 3600
+
+  # Service down
+  - name: service_down
+    metric: serving_status
+    condition: "=="
+    threshold: 0
+    severity: critical
+    action: restart
+    cooldown_seconds: 120
