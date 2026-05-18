@@ -392,7 +392,7 @@ if self.cycle_count % 10 == 0:
 **Rohan** — [@rohanxlabs](https://github.com/rohanxlabs)
 
 Pre-college builder focused on MLOps, robotics, and agentic AI systems.
-Starting BTech CSE AI/ML at Delhi Technical Campus (AKTU) — August 2026.
+Starting BTech CSE AI/ML at Delhi Technical Campus (GGSIPU) — August 2026.
 
 ---
 
