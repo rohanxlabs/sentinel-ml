@@ -1,9 +1,9 @@
-<img width="1920" height="1080" alt="Screenshot 2026-05-18 154248" src="https://github.com/user-attachments/assets/0093c7e1-7145-4ca9-b089-3ac57d72a8ac" />
 # ⬡ Autonomous ML Platform
 
 > A self-healing MLOps platform with autonomous drift detection, auto-retraining, and LLM-generated incident reports.
 
 <img width="1920" height="1080" alt="Screenshot 2026-05-18 154248" src="https://github.com/user-attachments/assets/ea418bcd-07eb-4f74-b246-008abf57c0f2" />
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green?style=flat-square)
 ![MLflow](https://img.shields.io/badge/MLflow-2.x-orange?style=flat-square)
