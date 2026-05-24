@@ -86,8 +86,7 @@ pygtrie
 pyOpenSSL               
 pyparsing              
 python-dateutil        
-python-dotenv           
-pywin32                 
+python-dotenv                            
 requests                 
 rsa                     
 ruamel.yaml             
