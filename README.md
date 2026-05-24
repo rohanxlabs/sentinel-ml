@@ -2,6 +2,8 @@
 
 > A self-healing MLOps platform with autonomous drift detection, auto-retraining, and LLM-generated incident reports.
 
+<img width="1920" height="1080" alt="Screenshot 2026-05-18 154248" src="https://github.com/user-attachments/assets/ea418bcd-07eb-4f74-b246-008abf57c0f2" />
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green?style=flat-square)
 ![MLflow](https://img.shields.io/badge/MLflow-2.x-orange?style=flat-square)
@@ -392,7 +394,7 @@ if self.cycle_count % 10 == 0:
 **Rohan** — [@rohanxlabs](https://github.com/rohanxlabs)
 
 Pre-college builder focused on MLOps, robotics, and agentic AI systems.
-Starting BTech CSE AI/ML at Delhi Technical Campus (AKTU) — August 2026.
+Starting BTech CSE AI/ML at Delhi Technical Campus (GGSIPU) — August 2026.
 
 ---
 
