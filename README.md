@@ -1,5 +1,5 @@
 # ⬡ Autonomous ML Platform
-
+Live link : https://sentinel-ml-ov0d.onrender.com
 > A self-healing MLOps platform with autonomous drift detection, auto-retraining, and LLM-generated incident reports.
 
 <img width="1920" height="1080" alt="Screenshot 2026-05-18 154248" src="https://github.com/user-attachments/assets/ea418bcd-07eb-4f74-b246-008abf57c0f2" />
